@@ -3,7 +3,7 @@
 ### 💁🏻‍♂️ Brief
 - I'm DragonTiger
 - Working as a **Back-end Engineer**
-- Mainly using **Java**
+- Mainly using **Java**, **Kotlin**
 
 <h2>
   :hammer: Tech. Stack :wrench:
